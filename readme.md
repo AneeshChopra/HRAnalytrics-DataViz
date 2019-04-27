@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# HR Analytics: Attrition Rate
 
 ## Dataset
 
